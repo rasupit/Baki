@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/rasupit/Baki/licence.txt</licenseUrl>
+    <projectUrl>https://github.com/rasupit/Baki</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>Baki WindowsService</tags>
+  </metadata>
+  <files>
+	<file src="content\*.*" target="content" />
+  </files>
+ </package>
